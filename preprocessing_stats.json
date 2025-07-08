@@ -1,0 +1,32 @@
+{
+    "agua": {
+        "total_images": 123,
+        "successful_extractions": 16,
+        "sequences_generated": 99
+    },
+    "bom dia": {
+        "total_images": 123,
+        "successful_extractions": 29,
+        "sequences_generated": 104
+    },
+    "nao": {
+        "total_images": 123,
+        "successful_extractions": 22,
+        "sequences_generated": 104
+    },
+    "ola": {
+        "total_images": 123,
+        "successful_extractions": 100,
+        "sequences_generated": 20
+    },
+    "por favor": {
+        "total_images": 123,
+        "successful_extractions": 45,
+        "sequences_generated": 104
+    },
+    "sim": {
+        "total_images": 123,
+        "successful_extractions": 67,
+        "sequences_generated": 104
+    }
+}
